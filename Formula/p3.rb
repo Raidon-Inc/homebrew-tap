@@ -1,8 +1,8 @@
 class P3 < Formula
   desc "TaskP3 CLI - manage tasks from the command line"
   homepage "https://www.taskp3.com/cli"
-  url "https://registry.npmjs.org/@taskp3/cli/-/cli-0.2.5.tgz"
-  sha256 "68ce04303b10ea0139bbd98d43378bff7a7753e8c561658c11c6ef9397d814c8"
+  url "https://registry.npmjs.org/@taskp3/cli/-/cli-0.2.6.tgz"
+  sha256 "53d98f1e0aeef0fd9f02ffffa53b0e698d25c74264760e3dc7edb47b3144cdc7"
   license "MIT"
 
   depends_on "node"
